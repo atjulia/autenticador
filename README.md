@@ -3,7 +3,8 @@
 **Instrução de uso**
 
 - Execute o arquivo [autenticacao.exe](https://github.com/atjulia/autenticador/blob/main/build/autenticacao.exe);
-- utilize o usuário  <b>administrador</b>.
+- Utilize o usuário  <b>administrador</b>;
+- Descubra a senha!
 
 A senha possui 6 caracteres, incluindo: 
 
